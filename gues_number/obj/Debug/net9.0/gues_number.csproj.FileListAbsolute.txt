@@ -1,0 +1,14 @@
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\gues_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\gues_number.AssemblyInfoInputs.cache
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\gues_number.AssemblyInfo.cs
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\gues_number.csproj.CoreCompileInputs.cache
+C:\Users\Dekstop\source\repos\gues_number\gues_number\bin\Debug\net9.0\gues_number.exe
+C:\Users\Dekstop\source\repos\gues_number\gues_number\bin\Debug\net9.0\gues_number.deps.json
+C:\Users\Dekstop\source\repos\gues_number\gues_number\bin\Debug\net9.0\gues_number.runtimeconfig.json
+C:\Users\Dekstop\source\repos\gues_number\gues_number\bin\Debug\net9.0\gues_number.dll
+C:\Users\Dekstop\source\repos\gues_number\gues_number\bin\Debug\net9.0\gues_number.pdb
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\gues_number.dll
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\refint\gues_number.dll
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\gues_number.pdb
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\gues_number.genruntimeconfig.cache
+C:\Users\Dekstop\source\repos\gues_number\gues_number\obj\Debug\net9.0\ref\gues_number.dll
